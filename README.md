@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rei-ne, an aspiring DevOps and a fullstack software engineering cohort @ALX
-- 👀 I’m interested in Linux and Shell technologies, HTML and CSS. 
+- 👋 Hi, I’m @Rei-ne, an aspiring Software Engineer at Holberton School.
+- 👀 I’m interested in Linux and Shell technologies, and web development.
 - 🌱 I’m currently learning how to be a fullstack software engineer
 - 💞️ I’m looking to collaborate on fun and challenging projects
 - 📫 How to reach me on twitter @R3ine_
