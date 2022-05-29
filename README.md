@@ -1,18 +1,17 @@
 <h3 align="center">Reine DEV </h3>
 <p align="center">
+  <a href="https://www.linkedin.com/in/toyosi-odukale/">Linked in</a> |
   <a href="https://twitter.com/Reine_Dev">Twitter</a>
 </p>
 
 
-- 👋 Hi, I'm Reine! a self taught frontend developer learning blockchain development.
+<h2 align="center"> 👋 Hi, I'm Reine! a frontend developer, and I'm constantly evolving. </h2>
 
-- 👀 I’m interested in web3 technologies, software engineering and web development.
+<p align="center"> I’m interested in web3 development, blockchain technologies, user experience and software engineering.</p>
 
-- 🌱 I’m currently learning how to be a fullstack web 3 software engineer.
+<p align="center"> I’m currently learning how to be a fullstack web 3 software engineer, and I’m looking for internships/collaborations on projects</p>
 
-- 💞️ I’m looking for internships/collaboration on fun and challenging projects
-
-- 📫 How to reach me on twitter @reine_dev
+<p align="center">Send a message on twitter to get in touch with me -  <a href="https://twitter.com/Reine_Dev">(reine_dev)</a> </p>
 
 <!---
 Rei-ne/Rei-ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
