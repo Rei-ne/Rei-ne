@@ -9,7 +9,7 @@
 
 <p align="center"> I’m interested in web3 development, blockchain technologies, user experience and software engineering.</p>
 
-<p align="center"> I’m currently learning how to be a fullstack web 3 software engineer, and I’m looking for internships/collaborations on projects</p>
+<p align="center"> I’m currently learning how to be a fullstack blockchain software engineer, and I’m looking for internships/collaborations on projects</p>
 
 <p align="center">Send a message on twitter to get in touch with me -  <a href="https://twitter.com/Reine_Dev">(reine_dev)</a> </p>
 
