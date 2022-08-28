@@ -11,7 +11,7 @@
 
 <p align="center"> I’m currently learning how to be a fullstack blockchain software engineer, and I’m looking for internships/collaborations on projects</p>
 
-<p align="center">Send a message on twitter to get in touch with me -  <a href="https://twitter.com/Reine_Dev">(reine_dev)</a> </p>
+<p align="center">Send me an <a href="mailto:reinetoyosii@gmail.com">email</a> to get in touch with me - </p>
 
 <!---
 Rei-ne/Rei-ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
