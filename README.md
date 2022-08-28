@@ -5,7 +5,7 @@
 </p>
 
 
-<h2 align="center"> 👋 Hi, I'm Reine! a frontend developer, and I'm constantly evolving. </h2>
+<h2 align="center"> 👋 Hi, I'm Reine! A frontend developer, and I'm constantly evolving. </h2>
 
 <p align="center"> I’m interested in web3 development, blockchain technologies, user experience and software engineering.</p>
 
