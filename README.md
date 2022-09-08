@@ -1,7 +1,7 @@
 <h3 align="center">Reine Dev </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/toyosi-odukale/">Linked in</a> |
-  <a href="https://docs.google.com/document/d/1Qyls-kvwLd1FBBFtUfZK8dMNJ_qv1anaZg7_6lf72RU/edit?usp=sharing" >Resume</a>
+  <a href="https://whoisreine.netlify.app/" >Resume</a>
 </p>
 
 
