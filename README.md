@@ -9,7 +9,7 @@
 
 <p align="center"> I’m interested in web3 development, blockchain technologies, user experience and software engineering.</p>
 
-<p align="center"> I’m currently learning how to be a fullstack blockchain software engineer, and I’m looking for internships/collaborations on projects</p>
+<p align="center"> I’m currently learning how to be a blockchain software engineer, and I’m looking for internships/collaborations on projects</p>
 
 <p align="center">Send me an <a href="mailto:reinetoyosii@gmail.com">email</a> to get in touch with me  </p>
 
