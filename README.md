@@ -6,6 +6,7 @@
 
 
 <h2 align="center"> 👋 Hi, I'm Reine! A frontend web3 developer... and I'm constantly evolving. </h2>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rei-ne&show_icons=true)  
 
 <p align="center"> I’m interested in creating frontend applications that are beautiful, scalable and efficient, with the utmost satisfaction of my users in mind. </p>
 
@@ -21,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-ne)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rei-ne&show_icons=true)  
+
 
 
 
