@@ -1,6 +1,7 @@
 <h3 align="center">Reine Dev </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/toyosi-odukale/">Linked in</a> |
+  <a href="https://docs.google.com/document/d/1Zc6xEBA_4iDQ3knx_W0KThBQC0QKcSlg/edit?usp=sharing&ouid=116893098797010002643&rtpof=true&sd=true">Resume</a> |
   <a href="https://reine.hashnode.dev/" >Blog</a>
 </p>
 
