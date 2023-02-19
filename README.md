@@ -1,6 +1,6 @@
 <h1 align="center">Reine DEV </h1>
 
-<h2 align="center"> Hello 👋, I'm Reine (pronounced ren) ... and I'm constantly evolving. </h2>
+<h2 align="center"> Hello, I'm Reine (pronounced ren) ... and I'm constantly evolving. </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toyosi-odukale/">Linked in</a> |
