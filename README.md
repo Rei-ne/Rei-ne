@@ -1,6 +1,6 @@
 <h1 align="center">Reine DEV </h1>
 
-<h2 align="center"> Hello, I'm Reine (pronounced ren) ... and I'm constantly evolving. </h2>
+<h2 align="center"> Hello, I'm Reine Dev (pronounced ren-dev) ... and I'm constantly evolving. </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toyosi-odukale/">Linked in</a> |
@@ -8,7 +8,7 @@
   <a href="https://reine.hashnode.dev/" >Blog</a>
 </p>
 
-<h4 align="block"> I'm a software developer interested in creating frontend web applications that are beautiful, scalable and efficient, with the utmost satisfaction of my users in mind. </h4>  
+<h4 align="block"> I'm a software developer interested in creating frontend web applications that are beautiful, scalable and efficient, while having the satisfaction of my users in mind. </h4>  
  <h4 align="block"> I am currently learning technical writing by writing about my experience with blockchain ecosystems and smart contracts because I love <a href="https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web">web3</a>  </h4>
 
 
