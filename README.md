@@ -1,4 +1,4 @@
-<h3 align="center">Reine DEV </h3>
+<h1 align="center">Reine DEV </h1>
 
 <h2 align="center"> Hello 👋, I'm Reine (pronounced ren) ... and I'm constantly evolving. </h2>
 
