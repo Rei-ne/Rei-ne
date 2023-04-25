@@ -8,7 +8,7 @@
   <a href="https://docs.google.com/document/d/1Zc6xEBA_4iDQ3knx_W0KThBQC0QKcSlg/edit" >Resume</a>
 </p>
 
-<h4 align="block"> My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient, while also having the satisfaction of my users in mind. </h4>  
+<h4 align="block"> My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. I also love to explore and figure out how things work on the internet. </h4>  
  <h4 align="block"> I am currently learning technical writing by writing about my interests, which highlight my experiences with frontend technologies, blockchain ecosystems and smart contracts because I love <a href="https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web">web3</a>  </h4>
 
 
