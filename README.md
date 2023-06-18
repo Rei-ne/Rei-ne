@@ -16,7 +16,7 @@
 
 
 <p align="left"> 💬 Ask me about my coding journey and anything blockchain related </p>
-<p align="center"> 👯 I’m looking to collaborate on web3 projects and hackathons </p>
+<p align="center"> 👯 I’m looking to collaborate on web projects and hackathons </p>
 <p align="right"> 📫 Send me an <a href="mailto:reinetoyosii@gmail.com">email</a> to get in touch with me  </p>
 
 
