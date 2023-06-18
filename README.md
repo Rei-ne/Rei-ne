@@ -4,12 +4,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toyosi-odukale/">LinkedIn</a> | 
-  <a href="https://reine.dev/">Website</a> |
+  <a href="https://reine.dev/">Portfolio Website</a> |
   <a href="https://drive.google.com/file/d/1_Vbz9lITpu4Xl1_-rQlAtIVt5ZiYXVlk/view?usp=sharing" >Resume</a>
 </p>
 
 <h4 align="block"> My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. I also love to explore and figure out how things work on the internet. </h4>  
- <h4 align="block"> I am currently learning technical writing by writing about my interests, which highlight my experiences with frontend technologies, blockchain ecosystems and smart contracts because I love <a href="https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web">web3</a>  </h4>
+ <h4 align="block"> I am currently exploring technical writing by writing about my interests, which highlight my experiences with frontend technologies, blockchain ecosystems and smart contracts because I love <a href="https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web">web3</a>  </h4>
+ <h4 align="block"> I am also a published author on KnowTechie. You can check out my articles on their <a href="https://knowtechie.com/author/reine-dev/"> website.</a> 
+</h4>
 
 
 
