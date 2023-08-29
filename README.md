@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/toyosi-odukale/">LinkedIn</a> | 
   <a href="https://reine.dev/">Portfolio Website</a> |
-  <a href="https://drive.google.com/file/d/1_Vbz9lITpu4Xl1_-rQlAtIVt5ZiYXVlk/view?usp=sharing" >Resume</a>
+  <a href="https://docs.google.com/document/d/1xbVU9uvKDhXHd8XufCLbODeiXycCKRjI/edit?usp=sharing&ouid=116893098797010002643&rtpof=true&sd=true" >Resume</a>
 </p>
 
 <h4 align="block"> My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. I also love to explore and figure out how things work on the internet. </h4>  
