@@ -1,28 +1,31 @@
-<h1 align="center">Reine DEV </h1>
+**Hello, I'm REINE DEV** (*pronounced ren-dev*) ... and I'm constantly evolving.
 
-<h2 align="center"> Hello, I'm Reine Dev (pronounced ren-dev) ... and I'm constantly evolving. </h2>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/toyosi-odukale/">LinkedIn</a> | 
   <a href="https://reine.dev/">Portfolio Website</a> |
   <a href="https://docs.google.com/document/d/1xbVU9uvKDhXHd8XufCLbODeiXycCKRjI/edit?usp=sharing&ouid=116893098797010002643&rtpof=true&sd=true" >Resume</a>
-</p>
+  
+My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. I love to explore and figure out how things work on the internet. 
+<br/>
+I am currently exploring technical writing by writing about my interests, which highlight my experiences with frontend technologies, blockchain ecosystems and smart contracts because I love <a href="https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web">web3</a>.
 
-<h4 align="block"> My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. I also love to explore and figure out how things work on the internet. </h4>  
- <h4 align="block"> I am currently exploring technical writing by writing about my interests, which highlight my experiences with frontend technologies, blockchain ecosystems and smart contracts because I love <a href="https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web">web3</a>  </h4>
- <h4 align="block"> I am also a published author on KnowTechie. You can check out my articles on their <a href="https://knowtechie.com/author/reine-dev/"> website.</a> 
-</h4>
+I am also a published author on KnowTechie. You can check out my articles on their <a href="https://knowtechie.com/author/reine-dev/"> website.</a> 
 
+---
 
+## My Coding Journey
+- 🐍 PYTHON
+- 💻 HTML/CSS
+- 🧠 Javascript
+- 📚 Technical Writing
+- 🌟 Solidity (web3)
+- 📱 React & Nextjs
+- 🚀 Astro
+- 💡 Move (web3)
 
-<p align="left"> 💬 Ask me about my coding journey and anything blockchain related </p>
-<p align="center"> 👯 I’m looking to collaborate on web projects and hackathons </p>
-<p align="right"> 📫 Send me an <a href="mailto:reinetoyosii@gmail.com">email</a> to get in touch with me  </p>
-
-
-
-
-
+---
+👯 I’m looking to collaborate on web projects and hackathons.
+<br/>
+📫 Send me an [email](mailto:reinetoyosii@gmail.com) to get in touch with me.
 
 
 <!---
