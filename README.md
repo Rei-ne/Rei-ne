@@ -5,11 +5,17 @@
   <a href="https://docs.google.com/document/d/1xbVU9uvKDhXHd8XufCLbODeiXycCKRjI/edit?usp=sharing&ouid=116893098797010002643&rtpof=true&sd=true" >Resume</a> |
   <a href="https://medium.com/@reinetoyosii"> Medium</a>
   
-My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. I love to explore and figure out how things work on the internet. 
-<br/>
-I am currently exploring technical writing by writing about my interests, which highlight my experiences with frontend technologies, blockchain ecosystems and smart contracts because I love <a href="https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web">web3</a>.
+My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. 
 
-I am also a published author on KnowTechie. You can check out my articles on their <a href="https://knowtechie.com/author/reine-dev/"> website.</a> 
+I love music, gaming and figuring out how things work on the internet. 
+<br/>
+
+I also write tech articles about my interests, which highlight my experiences with frontend technologies, blockchain ecosystems and smart contracts because I love <a href="https://reine.hashnode.dev/what-is-web3-an-introduction-to-the-decentralized-web">web3</a>.
+
+I am a published author on KnowTechie. You can check out my articles on their <a href="https://knowtechie.com/author/reine-dev/"> website.</a> 
+
+I am currently on the path to becoming a blockchain software engineer (smart contracts).
+
 
 ---
 
@@ -28,6 +34,7 @@ I am also a published author on KnowTechie. You can check out my articles on the
 👯 I’m looking to collaborate on web projects and hackathons.
 <br/>
 📫 Send me an [email](mailto:reinetoyosii@gmail.com) to get in touch with me.
+
 
 
 <!---
