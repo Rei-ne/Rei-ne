@@ -3,6 +3,7 @@
   <a href="https://www.linkedin.com/in/toyosi-odukale/">LinkedIn</a> | 
   <a href="https://reine.dev/">Portfolio Website</a> |
   <a href="https://docs.google.com/document/d/1xbVU9uvKDhXHd8XufCLbODeiXycCKRjI/edit?usp=sharing&ouid=116893098797010002643&rtpof=true&sd=true" >Resume</a>
+  <a href="https://medium.com/@reinetoyosii"> Medium</a>
   
 My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. I love to explore and figure out how things work on the internet. 
 <br/>
@@ -16,6 +17,7 @@ I am also a published author on KnowTechie. You can check out my articles on the
 - 🐍 PYTHON
 - 💻 HTML/CSS
 - 🧠 Javascript
+- 💎 Typescript
 - 📚 Technical Writing
 - 🌟 Solidity (web3)
 - 📱 React & Nextjs
