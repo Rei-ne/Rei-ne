@@ -1,7 +1,7 @@
 **Hello, I'm REINE DEV** (*pronounced ren-dev*) ... and I'm constantly evolving.
 
   <a href="https://www.linkedin.com/in/toyosi-odukale/">LinkedIn</a> | 
-  <a href="https://reine.dev/">Portfolio Website</a> |
+  <a href="https://whoisreine.netlify.app/">Portfolio Website</a> |
   <a href="https://drive.google.com/file/d/1akW1Q7L5SOavYjS9N7rl0zAaAOoxYsVb/view?usp=sharing" >Resume</a> |
   <a href="https://medium.com/@reinetoyosii"> Medium</a>
   
