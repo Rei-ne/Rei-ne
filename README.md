@@ -2,7 +2,7 @@
 
   <a href="https://www.linkedin.com/in/toyosi-odukale/">LinkedIn</a> | 
   <a href="https://whoisreine.netlify.app/">Portfolio Website</a> |
-  <a href="https://drive.google.com/file/d/1akW1Q7L5SOavYjS9N7rl0zAaAOoxYsVb/view?usp=sharing" >Resume</a> |
+  <a href="https://drive.google.com/file/d/1P07pkrgqgRvVEJRUw8DjVXBqRNhRCuJq/view?usp=sharing" >Resume</a> |
   <a href="https://medium.com/@reinetoyosii"> Medium</a>
   
 My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. 
