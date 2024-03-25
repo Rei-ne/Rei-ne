@@ -5,7 +5,7 @@
   <a href="https://drive.google.com/file/d/1P07pkrgqgRvVEJRUw8DjVXBqRNhRCuJq/view?usp=sharing" >Resume</a> |
   <a href="https://medium.com/@reinetoyosii"> Medium</a>
   
-My name is Toyosi (toe-yor-cee), and I am a frontend developer interested in creating frontend applications that are beautiful, scalable and efficient. 
+My name is Toyosi (toe-yor-cee), and I am a software developer interested in creating applications that are beautiful, scalable and efficient. 
 
 I love music, gaming and figuring out how things work on the internet. 
 <br/>
