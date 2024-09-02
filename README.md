@@ -1,9 +1,9 @@
 **Hello, I'm REINE DEV** (*pronounced ren-dev*) ... and I'm constantly evolving.
 
-  <a href="https://www.linkedin.com/in/toyosi-odukale/">LinkedIn</a> | 
-  <a href="https://whoisreine.netlify.app/">Portfolio Website</a> |
-  <a href="https://drive.google.com/file/d/1P07pkrgqgRvVEJRUw8DjVXBqRNhRCuJq/view?usp=sharing" >Resume</a> |
-  <a href="https://medium.com/@reinetoyosii"> Medium</a>
+  <a href="https://www.linkedin.com/in/toyosi-odukale/">LinkedIn </a> | 
+  <a href="https://whoisreine.netlify.app/">Portfolio Website </a> |
+  <a href="https://drive.google.com/file/d/1dBfSxLq5gyHhCPpPWuxVWob0csRIhEB4/view?usp=drive_link"> Resume </a> |
+  <a href="https://medium.com/@reinetoyosii"> Medium </a>
   
 My name is Toyosi (toe-yor-cee), and I am a software developer interested in creating applications that are beautiful, scalable and efficient. 
 
